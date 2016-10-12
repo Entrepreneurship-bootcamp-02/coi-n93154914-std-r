@@ -1,0 +1,10 @@
+{
+  "name": "coi-n93154914-std-r",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
